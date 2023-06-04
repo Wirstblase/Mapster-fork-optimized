@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Service": {
+      "commandName": "Project",
+      "commandLineArgs": "--input \"../../Service/Service/MapData/andorra.bin\"",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:50541"
+    }
+  }
+}
